@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "254959937388",
+    "firebase_url": "https://odontoplan-2020.firebaseio.com",
+    "project_id": "odontoplan-2020",
+    "storage_bucket": "odontoplan-2020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254959937388:android:6ff76484cfe30e426c3549",
+        "android_client_info": {
+          "package_name": "com.fgm_ti.odontoplan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254959937388-c7ag18qdven77mfllneqre6624h1nc49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fgm_ti.odontoplan",
+            "certificate_hash": "992fe6a189013912ce0cc854905832b1b90d85ea"
+          }
+        },
+        {
+          "client_id": "254959937388-vsk52odsuhn9mkd1b3q545a1b064mjj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJzhIvzX9Z-QaMywbL2L5d9IP31OiS65k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254959937388-vsk52odsuhn9mkd1b3q545a1b064mjj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
